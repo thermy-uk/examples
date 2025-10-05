@@ -1,0 +1,16 @@
+{
+  "name": "@thermy/examples",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-25",
+    "noble": "^1.9.1"
+  }
+}
