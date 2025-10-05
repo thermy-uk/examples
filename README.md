@@ -1,4 +1,4 @@
-# Examples
+# Examples
 
 This directory contains example code for discovering and reading data from a Thermy BLE thermometer. The device broadcasts temperature and humidity over Bluetooth Low Energy (BLE) in the advertisement Manufacturer Specific Data, so apps and services can read the measurements in real time without a GATT connection.
 
